@@ -43,7 +43,7 @@ The dataset used in this project is sourced from GitHub, containing anonymised i
 - Expand access to Employee Assistance Programmes to support mental health.
 - Provide mental health awareness training and resources to employees.
 
-# How to Use This Repository (pbix)
+# How to Use This Repository
 
 - Download the Power BI (.pbix) file from the repository.
 - Open the file using Power BI Desktop.
